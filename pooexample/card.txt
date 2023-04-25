@@ -1,0 +1,56 @@
+ <div class="container-fluid text-center align-middle">
+            <div class="row">
+                <div class="col-6">
+                    <div class="card text-center align-center" style="width: 18rem;">
+                        <img src="./img/civic.webp" class="card-img-top" alt="civic">
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
+                                of
+                                the
+                                card's content.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="card text-center align-middle" style="width: 18rem;">
+                <img src="./img/gtr.jpg" class="card-img-top" alt="gtr">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the
+                        bulk of the
+                        card's content.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
+                    <div class="card text-center align-middle" style="width: 18rem;">
+                        <img src="./img/rx-7.jpg" class="card-img-top" alt="rx-7">
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make
+                                up the bulk of the
+                                card's content.</p>
+
+                            <div class="card text-center align-middle" style="width: 18rem;">
+                                <img src="./img/skyline.jpg" class="card-img-top" alt="skyline">
+                                <div class="card-body">
+                                    <p class="card-text">Some quick example text to build on the card title
+                                        and make up the bulk of the
+                                        card's content.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="card text-center align-middle" style="width: 18rem;">
+                                <img src="./img/supra.webp" class="card-img-top" alt="supra">
+                                <div class="card-body">
+                                    <p class="card-text">Some quick example text to build on the
+                                        card title and make up the bulk of the
+                                        card's content.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
